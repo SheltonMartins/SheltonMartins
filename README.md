@@ -1,11 +1,11 @@
 <h1>Olá!👋 Meu nome é Shelton Martins</h1>
 
 <div>
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/SheltonMartins)](https://github.com/SheltonMartins)
 <a href = "sheltonmartinslucas@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/shelton-martins" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/SheltonMartins)](https://github.com/SheltonMartins)
 
 
 
