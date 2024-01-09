@@ -3,7 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/SheltonMartins)](https://github.com/SheltonMartins)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shelton-martins/)](https://www.linkedin.com/in/shelton-martins/)
 
-<img src="https://pt.wikipedia.org/wiki/GraphQL#/media/Ficheiro:GraphQL_Logo.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <!--
 **SheltonMartins/SheltonMartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
